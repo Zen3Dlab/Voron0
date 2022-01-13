@@ -2,9 +2,9 @@
 
 To match the skirt with the [Midpanel with Hex Pattern](../V0_MidPanel_HexPattern)  by sterminatore's idea
 
-![img1](./IMG/img1.jpg)
+![img1](./../IMG/img1.jpg)
 
-![img2](./IMG/img2.jpg)
+![img2](./../IMG/img2.jpg)
 
 ## print settings:
 
@@ -15,13 +15,13 @@ To match the skirt with the [Midpanel with Hex Pattern](../V0_MidPanel_HexPatter
 
 Left and right skirt part with 40 degree chamfers for color change printing. There is an extra hole for tightening the middle M3 screw.
 
-![img5](./IMG/img5.jpg)
+![img5](./../IMG/img5.jpg)
 
 ## Skirt_EmptyNameplate.stl
 
 Empty nameplate for serial number. For example, with Tinkercad you can easily put the number on it.
 
-![img6](./IMG/img6.jpg)
+![img6](./../IMG/img6.jpg)
 
 Here's a quick tutorial:
 
@@ -31,7 +31,7 @@ Here's a quick tutorial:
 
 SSR holder with led window.
 
-![img7](./IMG/img7.jpg)
+![img7](./../IMG/img7.jpg)
 
 ## Skirt_PowerSwitch.stl
 
@@ -39,7 +39,7 @@ SSR holder with led window.
 - Example power switch on aliexpress: [On/Off Switch 6A-10A 110V 250V 21MM*15MM](https://www.aliexpress.com/item/32802764284.html)
 
 
-![img8](./IMG/img8.jpg)
+![img8](./../IMG/img8.jpg)
 
 
 
@@ -47,4 +47,4 @@ SSR holder with led window.
 ### Overview
 
 
-![img3](./IMG/img3.jpg)
+![img3](./../IMG/img3.jpg)
